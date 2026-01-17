@@ -411,6 +411,7 @@ dependencies = [
     { name = "numpy", version = "2.4.1", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11'" },
     { name = "pandas" },
     { name = "pytest" },
+    { name = "requests" },
     { name = "ruff" },
     { name = "seaborn" },
 ]
@@ -423,6 +424,7 @@ requires-dist = [
     { name = "numpy", specifier = ">=2.2.6" },
     { name = "pandas", specifier = ">=2.3.3" },
     { name = "pytest", specifier = ">=9.0.2" },
+    { name = "requests", specifier = ">=2.32.5" },
     { name = "ruff", specifier = ">=0.14.13" },
     { name = "seaborn", specifier = ">=0.13.2" },
 ]

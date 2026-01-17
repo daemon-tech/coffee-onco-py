@@ -10,6 +10,7 @@ dependencies = [
     "numpy>=2.2.6",
     "pandas>=2.3.3",
     "pytest>=9.0.2",
+    "requests>=2.32.5",
     "ruff>=0.14.13",
     "seaborn>=0.13.2",
 ]
