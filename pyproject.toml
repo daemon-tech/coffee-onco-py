@@ -1,0 +1,15 @@
+[project]
+name = "coffee-onco-py"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.10"
+dependencies = [
+    "biopython>=1.86",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.8",
+    "numpy>=2.2.6",
+    "pandas>=2.3.3",
+    "pytest>=9.0.2",
+    "ruff>=0.14.13",
+    "seaborn>=0.13.2",
+]
